@@ -23,7 +23,7 @@
 #include <utils/misc.h>
 #include <utils/Log.h>
 #include <hardware/hardware.h>
-#include <hardware/joffee.h>
+#include <joffee.h>
 
 #include <stdio.h>
 
